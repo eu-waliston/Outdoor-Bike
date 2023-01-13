@@ -20,4 +20,5 @@
     cursor: pointer;
     transform: scale(1.2);
     transition: all 0.8s;
+    font-weight: 500;
 }
